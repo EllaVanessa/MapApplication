@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="new_location">Nouvelle position : %1$f , %2$f</string>
+</resources>
